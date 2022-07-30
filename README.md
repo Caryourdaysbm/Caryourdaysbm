@@ -9,7 +9,7 @@ An enthusiastic, teachable, creative and young FRONT END DEVELOPER, who desires 
 Javascript, HTML, CSS...
 
 ## 🔗 [Personal website](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/Zuri%20internship/personal%20website)
-    https://personal-website-1.caryourdaysbm.repl.co
+    https://personalsite.caryourdaysbm.repl.co
 
 ## 🔗 [Frontend Developer at Shu: hub](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/webpage)
 
