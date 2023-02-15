@@ -20,10 +20,10 @@
 
 <h1>[WEB Development]</h1>
 <b>I have +1 years of rich and very strong experience in this stack and skills.</b><br>
-<br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
-<br>&nbsp; &nbsp; ✓ Web service: XML/JSON, REST/SOAP, Expressjs, Nestjs
+<br>&nbsp; &nbsp; ⏳ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
+<br>&nbsp; &nbsp; ⏳ Web service: XML/JSON, REST/SOAP, Expressjs, Nestjs
 <br>&nbsp; &nbsp; ✓ Github, Gitlab
-<br>&nbsp; &nbsp; ⏳ HTML5, GO, Javascript/Typescript and their frameworks
+<br>&nbsp; &nbsp; ✓ HTML5, GO, Javascript/Typescript and their frameworks
 <br>&nbsp; &nbsp; ⏳ React/React Native, Nestjs, Vue/Nuxt, Angular, Hybrid: iOS, Android, Ionic (HTML5, jQuery Mobile)
 <br>&nbsp; &nbsp; ⏳ Figma/XD/PSD design to Frontend with pixel perfect and full responsive
 <br>&nbsp; &nbsp; ⏳ Cloud backend: Firebase, Amazon: S3, EC2, AWS
@@ -157,4 +157,4 @@
 <br />
 
 ## 📊 Stats
-[![Metrics](https://metrics.lecoq.io/Caryourdaysbm?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Caryourdaysbm
+[![Metrics](https://metrics.lecoq.io/Caryourdaysbm?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Caryourdaysbm/)
