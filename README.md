@@ -69,7 +69,7 @@
   <a href="https://github.com/Caryourdaysbm">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   </a>
-<a href="https://github.com/KingMaxine">
+<a href="https://github.com/Caryourdaysbm">
    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logo=express&logoColor=white" />
   </a>
 <a href="https://github.com/Caryourdaysbm">
@@ -117,10 +117,10 @@
   <a href="https://github.com/Caryourdaysbm">
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" />
   </a>
-   <a href="https://github.com/KingMaxine">
+   <a href="https://github.com/Caryourdaysbm">
     <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" />
   </a>
-   <a href="https://github.com/KingMaxine">
+   <a href="https://github.com/Caryourdaysbm">
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   </a>
    <a href="https://github.com/Caryourdaysbm">
@@ -143,16 +143,16 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p align="center">
-<a href="https://github.com/Caryourdaysbm/Caryourdaysbm"><img alt="Caryourdaysbm's activity graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Kingmaxine&theme=dark&hide_border=false" /></a>
+<a href="https://github.com/Caryourdaysbm/Caryourdaysbm"><img alt="Caryourdaysbm's activity graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Caryourdaysbm&theme=dark&hide_border=false" /></a>
 </p>
 
 <p align="right">
   <a href="https://github.com/Caryourdaysbm?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Caryourdaysbm"/></a>
-  <a href="https://github.com/KingMaxine?tab=followers">
+  <a href="https://github.com/Caryourdaysbm?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Caryourdaysbm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Caryourdaysbm">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=KingMaxine&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Caryourdaysbm&style=for-the-badge"/></a>
 </p>
 <br />
 
