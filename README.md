@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/IlliaButenko"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;Learning%20Web%20Development;1%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/IlliaButenko"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;Learning%20Web%20Development;2%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <p align="center">
@@ -19,15 +19,14 @@
 <br/>
 
 <h1>[WEB Development]</h1>
-<b>I have +1 years of rich and very strong experience in this stack and skills.</b><br>
-<br>&nbsp; &nbsp; ⏳ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
+<b>I have +2 years of rich and very strong experience in this stack and skills.</b><br>
+<br>&nbsp; &nbsp; ⏳ MySQL, SQLite, MongoDB
 <br>&nbsp; &nbsp; ⏳ Web service: XML/JSON, REST/SOAP, Expressjs, Nestjs
 <br>&nbsp; &nbsp; ✓ Github, Gitlab
-<br>&nbsp; &nbsp; ✓ HTML5, GO, Javascript/Typescript and their frameworks
-<br>&nbsp; &nbsp; ⏳ React/React Native, Nestjs, Vue/Nuxt, Angular, Hybrid: iOS, Android, Ionic (HTML5, jQuery Mobile)
-<br>&nbsp; &nbsp; ⏳ Figma/XD/PSD design to Frontend with pixel perfect and full responsive
-<br>&nbsp; &nbsp; ⏳ Cloud backend: Firebase, Amazon: S3, EC2, AWS
-<br>&nbsp; &nbsp; ⏳ Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
+<br>&nbsp; &nbsp; ✓ HTML5, Javascript/Typescript and their frameworks
+<br>&nbsp; &nbsp; ✓ React.js Vue.js, Next.js, Angular, HTML5, jQuery
+<br>&nbsp; &nbsp; ✓ Adobe Photoshop, Adobe Illustrator design
+<br>&nbsp; &nbsp; ⏳ Cloud backend: AWS
 <br/>
 <br/>
 <h1 align="center">Current Learning</h1>
@@ -45,9 +44,9 @@
   <a href="https://github.com/Caryourdaysbm">
    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   </a>
-  <a href="https://github.com/Caryourdaysbm">
+<!--   <a href="https://github.com/Caryourdaysbm">
     <img alt="GO" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/Caryourdaysbm">
     <img alt="React" src="https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
   </a>
@@ -66,45 +65,45 @@
   <a href="https://github.com/Caryourdaysbm">
      <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   </a>
-  <a href="https://github.com/Caryourdaysbm">
+<!--   <a href="https://github.com/Caryourdaysbm">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  </a>
+  </a> -->
 <a href="https://github.com/Caryourdaysbm">
    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logo=express&logoColor=white" />
   </a>
-<a href="https://github.com/Caryourdaysbm">
+<!-- <a href="https://github.com/Caryourdaysbm">
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/Caryourdaysbm">
     <img alt="Nestjs" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
   </a>
-    <a href="https://github.com/Caryourdaysbm">
+<!--     <a href="https://github.com/Caryourdaysbm">
     <img alt="Socketio" src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" />
   </a>
    <a href="https://github.com/Caryourdaysbm">
     <img alt="JWT" src="https://img.shields.io/badge/Jwt-black?style=flat&logo=JSON%20web%20tokens" />
-  </a>
+  </a> -->
    <a href="https://github.com/Caryourdaysbm">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySql-0f69a9?style=flat&logo=mysql&logoColor=white" />
   </a>
    <a href="https://github.com/Caryourdaysbm">
      <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
   </a>
-   <a href="https://github.com/Caryourdaysbm">
+<!--    <a href="https://github.com/Caryourdaysbm">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  </a>
+  </a> -->
    <a href="https://github.com/Caryourdaysbm">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" />
+<!--     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" />
   </a>
-   <a href="https://github.com/Caryourdaysbm">
+<!--    <a href="https://github.com/Caryourdaysbm">
 <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" />
-  </a>
+  </a> --> -->
    <a href="https://github.com/Caryourdaysbm">
     <img alt="Chartjs" src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white" />
   </a>
-  <a href="https://github.com/Caryourdaysbm">
+<!--   <a href="https://github.com/Caryourdaysbm">
     <img alt="Eslint" src="https://img.shields.io/badge/eslint-4B3263?style=flat&logo=eslint&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/Caryourdaysbm">
     <img alt="NPM" src="https://img.shields.io/badge/npm-%23000000.svg?style=flat&logo=npm&logoColor=white" />
   </a>
@@ -114,9 +113,9 @@
   <a href="https://github.com/Caryourdaysbm">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
   </a>
-  <a href="https://github.com/Caryourdaysbm">
+<!--   <a href="https://github.com/Caryourdaysbm">
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" />
-  </a>
+  </a> -->
    <a href="https://github.com/Caryourdaysbm">
     <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" />
   </a>
