@@ -143,7 +143,7 @@
 
 > GitHub Activity Graph
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+ https://github.com/Caryourdaysbm/github-readme-activity-graph
 <p align="center">
 <a href="https://github.com/Caryourdaysbm/Caryourdaysbm"><img alt="Caryourdaysbm's activity graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Caryourdaysbm&theme=dark&hide_border=false" /></a>
 </p>
