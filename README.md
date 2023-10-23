@@ -93,19 +93,19 @@
      <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
   </a>
    <a href="https://github.com/Caryourdaysbm">
-  <img alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E.svg?style=flat&logo=sqlite&logoColor=white" />
   </a>
    <a href="https://github.com/Caryourdaysbm">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white" />
   </a>
    <a href="https://github.com/Caryourdaysbm">
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
   </a>
    <a href="https://github.com/Caryourdaysbm">
     <img alt="Chartjs" src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white" />
   </a>
   <a href="https://github.com/Caryourdaysbm">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white" />
   </a>
   <a href="https://github.com/Caryourdaysbm">
     <img alt="NPM" src="https://img.shields.io/badge/npm-%23000000.svg?style=flat&logo=npm&logoColor=white" />
