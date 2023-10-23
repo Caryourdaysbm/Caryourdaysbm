@@ -21,10 +21,13 @@
 <h1>[WEB Development]</h1>
 <b>I have +2 years of rich and very strong experience in this stack and skills.</b><br>
 <br>&nbsp; &nbsp; ⏳ MySQL, SQLite, MongoDB
-<br>&nbsp; &nbsp; ⏳ Web service: XML/JSON, REST/SOAP, Expressjs, Nestjs
+<br>&nbsp; &nbsp; ⏳ Web service: XML/JSON, REST/SOAP, Expressjs, Nextjs
 <br>&nbsp; &nbsp; ✓ Github, Gitlab
 <br>&nbsp; &nbsp; ✓ HTML5, Javascript/Typescript and their frameworks
-<br>&nbsp; &nbsp; ✓ React.js Vue.js, Next.js, Angular, HTML5, jQuery
+<br>&nbsp; &nbsp; ✓ Bootstrap, TailwindCSS, SCSS
+<br>&nbsp; &nbsp; ⏳ React.js Vue.js, Next.js, Angular, HTML5, jQuery
+<br>&nbsp; &nbsp; ⏳ Backend: PHP, Laravel
+<br>&nbsp; &nbsp; ✓ C, Python, SQLite, Flask
 <br>&nbsp; &nbsp; ✓ Adobe Photoshop, Adobe Illustrator design
 <br>&nbsp; &nbsp; ⏳ Cloud backend: AWS
 <br/>
@@ -51,7 +54,7 @@
     <img alt="React" src="https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
   </a>
 <a href="https://github.com/Caryourdaysbm">
-    <img alt="Nestjs" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+    <img alt="Nextjs" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
   </a>
   <a href="https://github.com/Caryourdaysbm">
     <img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
@@ -75,7 +78,7 @@
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   </a> -->
   <a href="https://github.com/Caryourdaysbm">
-    <img alt="Nestjs" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   </a>
 <!--     <a href="https://github.com/Caryourdaysbm">
     <img alt="Socketio" src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" />
@@ -89,21 +92,21 @@
    <a href="https://github.com/Caryourdaysbm">
      <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
   </a>
-<!--    <a href="https://github.com/Caryourdaysbm">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  </a> -->
    <a href="https://github.com/Caryourdaysbm">
-<!--     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" />
+  <img alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   </a>
-<!--    <a href="https://github.com/Caryourdaysbm">
-<img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" />
-  </a> --> -->
+   <a href="https://github.com/Caryourdaysbm">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  </a>
+   <a href="https://github.com/Caryourdaysbm">
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  </a>
    <a href="https://github.com/Caryourdaysbm">
     <img alt="Chartjs" src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white" />
   </a>
-<!--   <a href="https://github.com/Caryourdaysbm">
-    <img alt="Eslint" src="https://img.shields.io/badge/eslint-4B3263?style=flat&logo=eslint&logoColor=white" />
-  </a> -->
+  <a href="https://github.com/Caryourdaysbm">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  </a>
   <a href="https://github.com/Caryourdaysbm">
     <img alt="NPM" src="https://img.shields.io/badge/npm-%23000000.svg?style=flat&logo=npm&logoColor=white" />
   </a>
