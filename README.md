@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/CaryourdaySBM?style=social">
-<img src="https://img.shields.io/twitter/follow/CaryourdaySBM?style=flat">
+<img src="https://img.shields.io/twitter/follow/Caryourday_SBM?style=flat">
   <img src="https://img.shields.io/static/v1?label=%E2%98%80%EF%B8%8F&message=Graduate&style=style=flat&color=red">
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%99&message=Love%20coding&style=style=flat&color=blue">
 </p>
