@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/IlliaButenko"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;Learning%20Web%20Development;2%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/IlliaButenko"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Learning%20Sofware%20and%20 AI%20Development;2%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-<h1>[WEB Development]</h1>
+<h1>[Software Development]</h1>
 <b>I have +2 years of rich and very strong experience in this stack and skills.</b><br>
 <br>&nbsp; &nbsp; ⏳ MySQL, SQLite, MongoDB
 <br>&nbsp; &nbsp; ⏳ Web service: XML/JSON, REST/SOAP, Expressjs, Nextjs
