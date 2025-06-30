@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/IlliaButenko"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Learning%20Sofware%20Development;Learning%20AI%20Development;3%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/caryourdaysbm"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Learning%20Sofware%20Development;Learning%20AI%20Development;3%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <p align="center">
@@ -10,6 +10,7 @@
 </p>
 
 <h1>Contact me</h1>
+
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeyemioluwakayode73@gmail.com)
 [![image](https://img.shields.io/badge/Twitter-3390ec?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caryourday_sbm)
